@@ -28,43 +28,67 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">At the Mountains of Madness</dc:title>
 		<meta property="file-as" refines="#title">At the Mountains of Madness</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Fantasy fiction</dc:subject>
+		<dc:subject id="subject-2">Horror tales</dc:subject>
+		<dc:subject id="subject-3">Antarctica -- Fiction</dc:subject>
+		<db:subject id="subject-4">Fossils -- Collection and preservation -- Fiction></dc:subject>
+		<db:subject id="subject-5">Scientific expeditions -- Fiction></dc:subject>
+		<db:subject id="subject-6">Stone carving -- Fiction></dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh85047114</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh85062084</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008114198</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">Unknown</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">Unknown</meta>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Horror</meta>
+		<meta property="se:subject">Science Fiction</meta>
+		<dc:description id="description">An Antarctic expedition reveals the horrid reality of ancient myths in the depths of the continent.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>Dr. William Dyer, of Miskatonic University in New England, recounts his perspective of an Antarctic expedition leading to strange, enormous mountains deep within the frozen continent, hiding prehuman horrors only spoken of in esoteric tomes.</p>
+			<p>Reflecting <a href="https://standardebooks.org/ebooks/h-p-lovecraft">H. P. Lovecraft</a>’s interest in the Antarctic—a continent still very unknown in the 1930s—this novella gives a very descriptive account of the geology and history of the Lovecraft universe. The dry, scientific text gradually becomes more suspenseful as the expedition uncovers more of the cosmic horrors Lovecraft is well known for.</p>
+			<p>Taking inspiration from Edgar Allen Poe's <i>Arthur Gordon Pym</i>, geological discoveries in his time, and building on his world established in previous works, <i>At the Mountains of Madness</i> establishes a story following the natural sense of mystery evoked by the frozen and uninhabited southernmost continent.</p>
 		</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://www.gutenberg.org/ebooks/70652</dc:source>
+		<!-- Chapters I-III-->
+		<dc:source>https://archive.org/details/Astounding_v16n06_1936-02_frankenscan/page/n9/</dc:source>
+		<!-- Chapters IV-VIII-->
+		<dc:source>https://archive.org/details/Astounding_v17n01_1936-03/page/n126</dc:source>
+		<!-- Chapters IX-XII-->
+		<dc:source>https://archive.org/details/Astounding_v17n02_1936-04/page/n132</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-p-lovecraft_at-the-mountains-of-madness</meta>
 		<dc:creator id="author">H.P. Lovecraft</dc:creator>
 		<meta property="file-as" refines="#author">Lovecraft, H.P.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/H.P._Lovecraft</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#author">Howard Phillips Lovecraft</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/H._P._Lovecraft</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80017007</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Nicholas Roerich</dc:contributor>
+		<meta property="file-as" refines="#artist">Roerich, Nicholas</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Nicholas_Roerich</meta>
+		<meta property="se:name.person.full-name" refines="#author">Nikolai Konstantinovich Rerikh</meta>
+		<meta property="alternate-script" refines="#author">Николай Константинович Рерих</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n50049053</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Mary Meehan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Meehan, Mary</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Dylan Koldenhof</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Koldenhof, Dylan</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
