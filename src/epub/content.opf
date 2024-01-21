@@ -47,19 +47,18 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="se:subject">Adventure</meta>
-		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">An Antarctic expedition reveals the horrid reality of ancient myths in the depths of the continent.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Dr. William Dyer, of Miskatonic University in New England, recounts his perspective of an Antarctic expedition leading to strange, enormous mountains deep within the frozen continent, hiding prehuman horrors only spoken of in esoteric tomes.&lt;/p&gt;
-			&lt;p&gt;Reflecting &lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;H. P. Lovecraft&lt;/a&gt;’s interest in the Antarctic—a continent still very unknown in the 1930s—this novella gives a very descriptive account of the geology and history of the Lovecraft universe. The dry, scientific text gradually becomes more suspenseful as the expedition uncovers more of the cosmic horrors Lovecraft is well known for.&lt;/p&gt;
-			&lt;p&gt;Taking inspiration from Edgar Allen Poe's &lt;i&gt;Arthur Gordon Pym&lt;/i&gt;, geological discoveries in his time, and building on his world established in previous works, &lt;i&gt;At the Mountains of Madness&lt;/i&gt; establishes a story following the natural sense of mystery evoked by the frozen and uninhabited southernmost continent.&lt;/p&gt;
+			&lt;p&gt;Reflecting &lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;H. P. Lovecraft’s&lt;/a&gt; interest in the Antarctic—a continent still very unknown in the 1930s—this novella gives a very descriptive account of the geology and history of the Lovecraft universe. The dry, scientific text gradually becomes more suspenseful as the expedition uncovers more of the cosmic horrors Lovecraft is well known for.&lt;/p&gt;
+			&lt;p&gt;Taking inspiration from Edgar Allen Poe’s &lt;i&gt;Arthur Gordon Pym&lt;/i&gt;, geological discoveries in his time, and building on his world established in previous works, &lt;i&gt;At the Mountains of Madness&lt;/i&gt; establishes a story following the natural sense of mystery evoked by the frozen and uninhabited southernmost continent.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70652</dc:source>
 		<!-- Chapters I-III-->
-		<dc:source>https://archive.org/details/Astounding_v16n06_1936-02_frankenscan/page/n9/</dc:source>
+		<dc:source>https://archive.org/details/Astounding_v16n06_1936-02_frankenscan/page/n9</dc:source>
 		<!-- Chapters IV-VIII-->
 		<dc:source>https://archive.org/details/Astounding_v17n01_1936-03/page/n126</dc:source>
 		<!-- Chapters IX-XII-->
@@ -79,7 +78,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Nicholas_Roerich</meta>
 		<meta property="se:name.person.full-name" refines="#author">Nikolai Konstantinovich Rerikh</meta>
 		<meta property="alternate-script" refines="#author">Николай Константинович Рерих</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n50049053</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50049053</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
