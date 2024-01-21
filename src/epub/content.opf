@@ -31,9 +31,9 @@
 		<dc:subject id="subject-1">Fantasy fiction</dc:subject>
 		<dc:subject id="subject-2">Horror tales</dc:subject>
 		<dc:subject id="subject-3">Antarctica -- Fiction</dc:subject>
-		<db:subject id="subject-4">Fossils -- Collection and preservation -- Fiction></dc:subject>
-		<db:subject id="subject-5">Scientific expeditions -- Fiction></dc:subject>
-		<db:subject id="subject-6">Stone carving -- Fiction></dc:subject>
+		<dc:subject id="subject-4">Fossils -- Collection and preservation -- Fiction&gt;</dc:subject>
+		<dc:subject id="subject-5">Scientific expeditions -- Fiction&gt;</dc:subject>
+		<dc:subject id="subject-6">Stone carving -- Fiction&gt;</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85047114</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
@@ -52,9 +52,9 @@
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">An Antarctic expedition reveals the horrid reality of ancient myths in the depths of the continent.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			<p>Dr. William Dyer, of Miskatonic University in New England, recounts his perspective of an Antarctic expedition leading to strange, enormous mountains deep within the frozen continent, hiding prehuman horrors only spoken of in esoteric tomes.</p>
-			<p>Reflecting <a href="https://standardebooks.org/ebooks/h-p-lovecraft">H. P. Lovecraft</a>’s interest in the Antarctic—a continent still very unknown in the 1930s—this novella gives a very descriptive account of the geology and history of the Lovecraft universe. The dry, scientific text gradually becomes more suspenseful as the expedition uncovers more of the cosmic horrors Lovecraft is well known for.</p>
-			<p>Taking inspiration from Edgar Allen Poe's <i>Arthur Gordon Pym</i>, geological discoveries in his time, and building on his world established in previous works, <i>At the Mountains of Madness</i> establishes a story following the natural sense of mystery evoked by the frozen and uninhabited southernmost continent.</p>
+			&lt;p&gt;Dr. William Dyer, of Miskatonic University in New England, recounts his perspective of an Antarctic expedition leading to strange, enormous mountains deep within the frozen continent, hiding prehuman horrors only spoken of in esoteric tomes.&lt;/p&gt;
+			&lt;p&gt;Reflecting &lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;H. P. Lovecraft&lt;/a&gt;’s interest in the Antarctic—a continent still very unknown in the 1930s—this novella gives a very descriptive account of the geology and history of the Lovecraft universe. The dry, scientific text gradually becomes more suspenseful as the expedition uncovers more of the cosmic horrors Lovecraft is well known for.&lt;/p&gt;
+			&lt;p&gt;Taking inspiration from Edgar Allen Poe's &lt;i&gt;Arthur Gordon Pym&lt;/i&gt;, geological discoveries in his time, and building on his world established in previous works, &lt;i&gt;At the Mountains of Madness&lt;/i&gt; establishes a story following the natural sense of mystery evoked by the frozen and uninhabited southernmost continent.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70652</dc:source>
