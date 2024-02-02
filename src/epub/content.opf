@@ -67,8 +67,8 @@
 		<meta property="se:reading-ease.flesch">42.04</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-p-lovecraft_at-the-mountains-of-madness</meta>
-		<dc:creator id="author">H.P. Lovecraft</dc:creator>
-		<meta property="file-as" refines="#author">Lovecraft, H.P.</meta>
+		<dc:creator id="author">H. P. Lovecraft</dc:creator>
+		<meta property="file-as" refines="#author">Lovecraft, H. P.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Howard Phillips Lovecraft</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/H._P._Lovecraft</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80017007</meta>
