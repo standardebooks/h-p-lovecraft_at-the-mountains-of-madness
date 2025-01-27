@@ -57,12 +57,12 @@
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70652</dc:source>
-		<!-- Chapters I-III-->
-		<dc:source>https://archive.org/details/Astounding_v16n06_1936-02_frankenscan/page/n9</dc:source>
-		<!-- Chapters IV-VIII-->
-		<dc:source>https://archive.org/details/Astounding_v17n01_1936-03/page/n126</dc:source>
-		<!-- Chapters IX-XII-->
-		<dc:source>https://archive.org/details/Astounding_v17n02_1936-04/page/n132</dc:source>
+		<!-- Chapters I-III, p. 9 -->
+		<dc:source>https://archive.org/details/Astounding_v16n06_1936-02_frankenscan</dc:source>
+		<!-- Chapters IV-VIII, p. 126 -->
+		<dc:source>https://archive.org/details/Astounding_v17n01_1936-03</dc:source>
+		<!-- Chapters IX-XII, p. 132 -->
+		<dc:source>https://archive.org/details/Astounding_v17n02_1936-04</dc:source>
 		<meta property="se:word-count">40141</meta>
 		<meta property="se:reading-ease.flesch">42.04</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness</meta>
