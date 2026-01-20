@@ -64,7 +64,7 @@
 		<dc:source>https://archive.org/details/Astounding_v17n01_1936-03</dc:source>
 		<!-- Chapters IX-XII, p. 132 -->
 		<dc:source>https://archive.org/details/Astounding_v17n02_1936-04</dc:source>
-		<meta property="se:word-count">40141</meta>
+		<meta property="se:word-count">39980</meta>
 		<meta property="se:reading-ease.flesch">42.04</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-p-lovecraft_at-the-mountains-of-madness</meta>
