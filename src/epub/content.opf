@@ -51,7 +51,7 @@
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Horror</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:abstract>An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.</dc:abstract>
+		<meta property="schema:abstract">An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.</meta>
 		<dc:description>
 			&lt;p&gt;Dr. William Dyer of New England’s Miskatonic University recounts his experiences on an Antarctic expedition leading to strange, enormous mountains deep within the frozen continent, hiding prehuman horrors only spoken of in esoteric tomes.&lt;/p&gt;
 			&lt;p&gt;Reflecting &lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;H. P. Lovecraft’s&lt;/a&gt; interest in the Antarctic—a continent still very unknown in the 1930s—this story gives a detailed account of the geology and history of Lovecraft’s universe. The dry, scientific text gradually becomes more suspenseful as the expedition uncovers more and more of the cosmic horrors Lovecraft became famous for.&lt;/p&gt;
