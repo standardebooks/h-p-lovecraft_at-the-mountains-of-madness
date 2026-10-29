@@ -79,9 +79,9 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Nicholas Roerich</dc:contributor>
 		<meta property="file-as" refines="#artist">Roerich, Nicholas</meta>
+		<meta property="schema:alternateName" refines="#artist">Nikolai Konstantinovich Rerikh</meta>
+		<meta property="alternate-script" refines="#artist">Николай Константинович Рерих</meta>
 		<link href="https://en.wikipedia.org/wiki/Nicholas_Roerich" refines="#artist" rel="schema:sameAs"/>
-		<meta property="schema:alternateName" refines="#author">Nikolai Konstantinovich Rerikh</meta>
-		<meta property="alternate-script" refines="#author">Николай Константинович Рерих</meta>
 		<link href="https://id.loc.gov/authorities/names/n50049053.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
